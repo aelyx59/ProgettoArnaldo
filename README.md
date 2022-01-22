@@ -1,2 +1,2 @@
-# ProgettoArnaldo
-Esercizi svolti durante il Progetto Arnaldo
+# Programma Arnaldo
+Esercizi svolti durante il Programma Arnaldo
